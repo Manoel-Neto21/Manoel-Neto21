@@ -1,7 +1,14 @@
 ### Fala galera, beleza! 👋
 
 - 🔭 Hoje trabalho com QA :lady_beetle:
-- 🌱 Estudando Selenium, k6, python, testes automatizados, testes manuais...
+- 🌱 Estudando:
+-             Selenium
+-             k6
+-             Python
+-             JavaScript
+-             PHP
+-             Testes automatizados
+-             Testes manuais
 
 ##
 
